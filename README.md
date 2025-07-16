@@ -60,5 +60,5 @@ Se identificaron diferencias significativas en los ingresos promedio entre tarif
 ---
 
 ## 👨🏻‍💻 Autor
-Julio Hernández Tejeida – [@jules.indalab](https://www.instagram.com/jules.indalab)  
+Julio Hernández Tejeida
 *Business Analyst en formación con enfoque en datos, visualización y análisis estratégico*
